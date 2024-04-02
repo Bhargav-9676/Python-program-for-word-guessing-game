@@ -39,3 +39,5 @@ If they are not, it prints out “Wrong” and decreases the number of turns lef
 If all turns have been used, then the code will print “You Lose.”
 Example 2: Word guessing game using python
 In this game, the user needs to enter 5 letter word, if any alphabet is present in the magic word that word will be shown yellow and if the alphabet is present at the same position alphabet will turn green, and if the alphabet is not present in the word then alphabet will become black.
+FOR MORE INFORMATION
+https://www.geeksforgeeks.org/python-program-for-word-guessing-game/?ref=lbp
