@@ -41,3 +41,8 @@ Example 2: Word guessing game using python
 In this game, the user needs to enter 5 letter word, if any alphabet is present in the magic word that word will be shown yellow and if the alphabet is present at the same position alphabet will turn green, and if the alphabet is not present in the word then alphabet will become black.
 FOR MORE INFORMATION
 https://www.geeksforgeeks.org/python-program-for-word-guessing-game/?ref=lbp
+
+
+
+word document link 
+https://1drv.ms/w/c/6d092c83b203e1e1/EWdI2V38WK1MlfxG-3111QkBc_wWpivHnOsTgdnGdQqPeQ?e=UFBmcG
